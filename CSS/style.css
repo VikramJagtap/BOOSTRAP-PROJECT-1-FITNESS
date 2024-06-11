@@ -1,0 +1,187 @@
+*{
+    margin: 0;
+    padding: 0; 
+}
+.nav{
+    background-image: url(../images/illustraction/h1_hero.png);  
+    width: 100%;
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+}
+.menu1
+{
+    font-size:20px;
+}
+.list1
+{
+    list-style-type: none;
+}
+.pcolor
+{
+    font-family: "Teko",sans-serif;
+    font-weight: 300;
+    color: #f04e3c;
+    font-size: 13px;
+    margin-left: 50px;
+}
+.solgan
+{
+    font-size: 29px;
+}
+.section2_h
+{
+    color: #2c234d;
+    font-size: 26px;
+    font-family: "Teko",sans-serif;    
+}
+.section2_p
+{
+    font-size: 16px;
+    color: #212025;
+    font-family: "Barlow",sans-serif;
+    line-height: 30px;
+}
+.section2_p1
+{
+    font-size: 16px;
+    color:grey;
+    font-family: "Barlow",sans-serif;
+}
+.section3_h
+{
+    font-size: 25px;
+    font-family: "Teko",sans-serif;    
+}
+.section7_h
+{
+    font-size: 27px;
+    font-family: "Teko",sans-serif;   
+}
+.bcolor
+{
+    background-color: white;
+}
+.equipment
+{
+    font-family: "Teko",sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+}
+.para
+{
+    font-size: 14px;
+    color: #303133;
+    font-family: "Barlow",sans-serif;
+    line-height: 30px;
+}
+.quality
+{
+    margin: 0 auto;
+}
+.position
+{
+    color: #959595;
+    font-size: 16px;
+}
+.name
+{
+    font-weight: 700;
+    font-size: 18px;
+}
+.b1color
+{
+    background-color:#007bff ;
+}
+.section6_h
+{
+    font-size: 40px;
+    font-family: "Teko",sans-serif;
+}
+.section7_p
+{
+    font-family: "Teko",sans-serif;
+    font-weight: 300;
+    color: #f04e3c;
+    font-size: 13px;
+}
+.day
+{
+    font-family: "Teko",sans-serif;
+    font-size: 16px;
+}
+.box
+{
+    margin: 0 auto;  
+}
+.time
+{
+    font-size: 19px;
+    font-family: "Barlow",sans-serif;
+    color: black;
+}
+.time:hover
+{
+    color: red;
+}
+.list_menu1
+{
+    font-family: "Teko",sans-serif;
+    font-size: 18px;
+}
+.list_menu
+{
+    color: #c4c4c4;
+    font-weight: 300;
+    font-size: 16px;
+}
+.list_menu:hover
+{
+    color:red;
+}
+.footer_h
+{
+    font-family: "Teko",sans-serif;
+    font-size: 14px;
+    color: #c4c4c4;
+}
+.end
+{
+    color: white;
+}
+.end:hover
+{
+    color: red;
+}
+.section3
+    {
+        height: 1300px;
+    }
+@media(min-width:768px)
+{
+    .section7_h
+{
+    font-size: 50px;
+    font-family: "Teko",sans-serif;   
+}
+
+}
+@media(min-width:992px)
+{
+    .div1{
+        margin-top: 80px;
+    }
+    .button1
+    {
+        margin-left: 200px;
+    }
+    .section3
+    {
+        height: 700px;
+    }
+    .f_color
+    {
+        height: 400px;
+    }
+
+}
